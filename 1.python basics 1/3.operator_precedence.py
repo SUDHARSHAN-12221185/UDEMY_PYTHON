@@ -1,0 +1,12 @@
+''' operator precendence
+
+()
+
+**
+
+* /
+
++ -
+
+
+'''
